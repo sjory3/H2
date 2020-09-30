@@ -1,0 +1,7 @@
+C:\Users\mich612i\OneDrive\program\C#\FlaskeAutomatSortering\FlaskeAutomatSortering\bin\Debug\FlaskeAutomatSortering.exe.config
+C:\Users\mich612i\OneDrive\program\C#\FlaskeAutomatSortering\FlaskeAutomatSortering\bin\Debug\FlaskeAutomatSortering.exe
+C:\Users\mich612i\OneDrive\program\C#\FlaskeAutomatSortering\FlaskeAutomatSortering\bin\Debug\FlaskeAutomatSortering.pdb
+C:\Users\mich612i\OneDrive\program\C#\FlaskeAutomatSortering\FlaskeAutomatSortering\obj\Debug\FlaskeAutomatSortering.csprojAssemblyReference.cache
+C:\Users\mich612i\OneDrive\program\C#\FlaskeAutomatSortering\FlaskeAutomatSortering\obj\Debug\FlaskeAutomatSortering.csproj.CoreCompileInputs.cache
+C:\Users\mich612i\OneDrive\program\C#\FlaskeAutomatSortering\FlaskeAutomatSortering\obj\Debug\FlaskeAutomatSortering.exe
+C:\Users\mich612i\OneDrive\program\C#\FlaskeAutomatSortering\FlaskeAutomatSortering\obj\Debug\FlaskeAutomatSortering.pdb

@@ -1,0 +1,7 @@
+C:\Users\mich612i\source\repos\Dragracing\Dragracing\bin\Debug\Dragracing.exe.config
+C:\Users\mich612i\source\repos\Dragracing\Dragracing\bin\Debug\Dragracing.exe
+C:\Users\mich612i\source\repos\Dragracing\Dragracing\bin\Debug\Dragracing.pdb
+C:\Users\mich612i\source\repos\Dragracing\Dragracing\obj\Debug\Dragracing.csprojAssemblyReference.cache
+C:\Users\mich612i\source\repos\Dragracing\Dragracing\obj\Debug\Dragracing.csproj.CoreCompileInputs.cache
+C:\Users\mich612i\source\repos\Dragracing\Dragracing\obj\Debug\Dragracing.exe
+C:\Users\mich612i\source\repos\Dragracing\Dragracing\obj\Debug\Dragracing.pdb

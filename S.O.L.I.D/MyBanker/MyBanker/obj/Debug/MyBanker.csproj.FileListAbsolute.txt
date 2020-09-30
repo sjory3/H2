@@ -1,0 +1,7 @@
+C:\Users\mich612i\source\repos\MyBanker\MyBanker\bin\Debug\MyBanker.exe.config
+C:\Users\mich612i\source\repos\MyBanker\MyBanker\bin\Debug\MyBanker.exe
+C:\Users\mich612i\source\repos\MyBanker\MyBanker\bin\Debug\MyBanker.pdb
+C:\Users\mich612i\source\repos\MyBanker\MyBanker\obj\Debug\MyBanker.csprojAssemblyReference.cache
+C:\Users\mich612i\source\repos\MyBanker\MyBanker\obj\Debug\MyBanker.csproj.CoreCompileInputs.cache
+C:\Users\mich612i\source\repos\MyBanker\MyBanker\obj\Debug\MyBanker.exe
+C:\Users\mich612i\source\repos\MyBanker\MyBanker\obj\Debug\MyBanker.pdb
